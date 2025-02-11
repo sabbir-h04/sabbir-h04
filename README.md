@@ -18,7 +18,7 @@ Skills: C / Java / PYTHON/  HTML / CSS / BOOTSTRAP / JavaScript
 
 - 📫 How to reach me **sabbirhossainsh04@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/sabbir-h04](https://lnk.bio/sabbir_h04)
+- 📄 All About Me:[https://lnk.bio/sabbir_h04](https://lnk.bio/sabbir_h04)
 
 <h3 align="left">Connect with me:</h3>
 
