@@ -14,21 +14,21 @@ Skills: C / Java / PYTHON/  HTML / CSS / BOOTSTRAP / JavaScript
 
 - 🌱 I’m currently learning JavaScript, React.
 
-- 👨‍💻 All of my projects are available at [https://github.com/sabbir-h04](https://github.com/sabbir-h04)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/sabbir-h04" target="_blank" rel="noopener noreferrer">https://github.com/sabbir-h04</a>
 
 - 📫 How to reach me **sabbirhossainsh04@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/sabbir_h04](https://lnk.bio/sabbir_h04)
+- 📄 All About Me:<a href="https://lnk.bio/sabbir_h04" target="_blank" rel="noopener noreferrer">https://lnk.bio/sabbir_h04</a>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/isfaq.hs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir-h04" height="30" width="40" /></a>
+<a href="https://fb.com/isfaq.hs" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir-h04" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/sabbir-h04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabbir-h04" height="30" width="40" /></a> -->
 <!-- <a href="https://linkedin.com/in/sabbir-h04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir-h04" height="30" width="40" /></a> -->
 <!-- <a href="https://codepen.io/sabbir-h04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sabbir-h04" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a> -->
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<a href="https://instagram.com/tutul_181" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 <!-- <a href="https://dribbble.com/sabbir-h04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sabbir-h04" height="30" width="40" /></a> -->
 <!-- <a href="https://www.behance.net/sabbir-h04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sabbir-h04" height="30" width="40" /></a> -->
 </p>
