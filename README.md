@@ -1,6 +1,6 @@
-![I am sabbir-h04](https://github.com/sabbir-h04/sabbir-h04/blob/main/code.png)
+![I am sabbir-h04](https://github.com/sabbir-h04/sabbir-h04/blob/main/coder.png)
 
-<h1 align="center">Hi 👋, I'm MD Sabbir Hossain</h1>
+<h1 align="center">Hey 👋, I'm MD Sabbir Hossain</h1>
 <h3 align="center">Programmer | Web Developer</h3>
 <!-- <h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4> -->
 
@@ -18,7 +18,7 @@ Skills: C / Java / PYTHON/  HTML / CSS / BOOTSTRAP / JavaScript
 
 - 📫 How to reach me **sabbirhossainsh04@gmail.com**
 
-- 📄 All About Me:<a href="https://lnk.bio/sabbir_h04" target="_blank" rel="noopener noreferrer">https://lnk.bio/sabbir_h04</a>
+- 📄 All About Me: <a href="https://lnk.bio/sabbir_h04" target="_blank" rel="noopener noreferrer">https://lnk.bio/sabbir_h04</a>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -28,7 +28,7 @@ Skills: C / Java / PYTHON/  HTML / CSS / BOOTSTRAP / JavaScript
 <!-- <a href="https://linkedin.com/in/sabbir-h04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir-h04" height="30" width="40" /></a> -->
 <!-- <a href="https://codepen.io/sabbir-h04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sabbir-h04" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a> -->
-<a href="https://instagram.com/tutul_181" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<a href="https://instagram.com/sabbir_h04" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 <!-- <a href="https://dribbble.com/sabbir-h04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sabbir-h04" height="30" width="40" /></a> -->
 <!-- <a href="https://www.behance.net/sabbir-h04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sabbir-h04" height="30" width="40" /></a> -->
 </p>
@@ -61,7 +61,7 @@ Skills: C / Java / PYTHON/  HTML / CSS / BOOTSTRAP / JavaScript
 ## Best Repos -
 
 [![Rock-Paper-Scissors](https://github-readme-stats.vercel.app/api/pin/?username=sabbir-h04&repo=Rock-Paper-Scissors&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sabbir-h04/Rock-Paper-Scissors)
-[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=sabbir-h04&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sabbir-h04/100_plus_C_Problems)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=sabbir-h04&repo=Calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sabbir-h04/Calculator)
 
 <p align="left">
   <a href="https://github.com/sabbir-h04?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
